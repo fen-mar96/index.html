@@ -1,2 +1,2 @@
 # index.html
-<h1> Hello Mari </h1>
+<h1> Hello Maria </h1>
